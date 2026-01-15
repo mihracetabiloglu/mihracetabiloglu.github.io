@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #0f172a;
-    color: #e5e7eb;
+    background-color: #f8fafc;
+    color: #0f172a;
 }
 
 header {
@@ -23,7 +23,7 @@ h1, h2 {
 }
 
 a {
-    color: #38bdf8;
+    color: #475569;
     text-decoration: none;
 }
 
